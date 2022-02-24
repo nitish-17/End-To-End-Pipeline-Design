@@ -1,5 +1,5 @@
 # dbt project
-![doc/img.jpg]
+![end-to-end.jpg](doc/img.jpg)
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
